@@ -65,7 +65,7 @@ function kintamieji( $skaicius) {
   return $counter;
 }
 echo kintamieji(24);
-....
+
 ?>
 <?php
 // //////////////5/////////////////////
